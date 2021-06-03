@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+
+hr {
+  background-color: white;
+  border-style: dashed;
+  border-color: tomato;
+  border-width: 2px;
+  height: 0px;
+  width: 50%;
+}
